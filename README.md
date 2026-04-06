@@ -46,7 +46,7 @@ $$P(\text{Move}) = \beta_0 + \beta_1\ln(\text{Rent}) + \beta_2\ln(\text{Income})
 
 
 ## 6. How to Run
-1. Ensure you have the `migration_data.csv` (or the cleaned `.dta` file).
+1. Ensure you have the `migration_data.csv` (or the cleaned `.dta` file) [here](https://drive.google.com/drive/folders/1qL1KeMJrbXkJj7wwe9yXfrmp4kfGiYSx?usp=sharing).
 2. Install dependencies: `pip install pandas statsmodels matplotlib numpy`.
 3. Run the Jupyter Notebook `migration_analysis.ipynb` to replicate the regression and charts.
 
